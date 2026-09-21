@@ -1,0 +1,22 @@
+{
+  "name": "dev.appspike.sdk-core",
+  "version": "1.4.5",
+  "displayName": "AppSpike SDK Core",
+  "description": "Core session, authentication, and device services shared by all AppSpike SDK modules. Required by dev.appspike.remote-config.",
+  "unity": "2021.3",
+  "documentationUrl": "https://github.com/pydetech/appspike-sdk-unity-dist",
+  "license": "SEE LICENSE IN LICENSE",
+  "licensesUrl": "https://github.com/pydetech/appspike-sdk-unity-dist/blob/main/LICENSE",
+  "keywords": [
+    "appspike",
+    "sdk"
+  ],
+  "author": {
+    "name": "AppSpike",
+    "url": "https://appspike.dev"
+  },
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.1",
+    "com.unity.modules.unitywebrequest": "1.0.0"
+  }
+}

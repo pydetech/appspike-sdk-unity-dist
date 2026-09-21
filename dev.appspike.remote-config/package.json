@@ -1,0 +1,30 @@
+{
+  "name": "dev.appspike.remote-config",
+  "version": "1.4.5",
+  "displayName": "AppSpike Remote Config",
+  "description": "AppSpike Remote Config for Unity \u2014 a Firebase Remote Config compatible API: fetch, activate, in-app defaults, conditional targeting, percent rollouts, and custom signals, evaluated on-device.",
+  "unity": "2021.3",
+  "documentationUrl": "https://github.com/pydetech/appspike-sdk-unity-dist",
+  "license": "SEE LICENSE IN LICENSE",
+  "licensesUrl": "https://github.com/pydetech/appspike-sdk-unity-dist/blob/main/LICENSE",
+  "keywords": [
+    "appspike",
+    "remote-config",
+    "feature-flags"
+  ],
+  "author": {
+    "name": "AppSpike",
+    "url": "https://appspike.dev"
+  },
+  "dependencies": {
+    "dev.appspike.sdk-core": "1.4.5",
+    "com.unity.nuget.newtonsoft-json": "3.2.1"
+  },
+  "samples": [
+    {
+      "displayName": "Remote Config Showcase",
+      "description": "A minimal scene script demonstrating initialize, defaults, fetch-and-activate, and typed getters.",
+      "path": "Samples~/RemoteConfigShowcase"
+    }
+  ]
+}

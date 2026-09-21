@@ -1,0 +1,41 @@
+AppSpike SDK License Agreement
+
+Copyright (c) 2026 Pyde Technologies LTD. All rights reserved.
+
+This license governs the AppSpike SDK, including its binary
+distributions, frameworks, packages, and accompanying sample code
+(collectively, the "SDK").
+
+1. License Grant. Pyde Technologies LTD grants you a limited, worldwide,
+   royalty-free, non-exclusive, non-transferable, revocable license to
+   download, install, and use the SDK solely as incorporated into your
+   own applications for the purpose of accessing AppSpike services.
+
+2. Sample Code. Sample applications and code snippets included in this
+   repository may be copied, modified, and used within your own
+   applications that access AppSpike services.
+
+3. Restrictions. Except as expressly permitted above, you may not, and
+   may not permit others to: (a) redistribute, sublicense, sell, lease,
+   or otherwise transfer the SDK or any part of it as a standalone
+   product; (b) modify, translate, or create derivative works of the
+   SDK binaries; (c) reverse engineer, decompile, or disassemble the
+   SDK binaries, except to the extent such restriction is prohibited by
+   applicable law; (d) use the SDK to build a competing product or
+   service; or (e) remove or obscure any proprietary notices in the SDK.
+
+4. Ownership. The SDK is licensed, not sold. Pyde Technologies LTD
+   retains all right, title, and interest in and to the SDK.
+
+5. Termination. This license terminates automatically if you breach any
+   of its terms. Upon termination you must cease using the SDK and
+   destroy all copies.
+
+6. Disclaimer. THE SDK IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY
+   KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+   NON-INFRINGEMENT. IN NO EVENT SHALL PYDE TECHNOLOGIES LTD BE LIABLE
+   FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM OR IN
+   CONNECTION WITH THE SDK OR ITS USE.
+
+For questions about this license, contact info@pyde.tech.
